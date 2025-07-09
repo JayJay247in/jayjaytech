@@ -27,7 +27,7 @@ A modern, responsive, and fully-featured single-page portfolio website for **Jay
 
 1. **Download or Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/JayJay247in/jayjaytech.git
     ```
     Or download as ZIP and extract.
 
